@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hello World, I'm Rodrigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<!--
-**RodrigoLimaM/RodrigoLimaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigolimam/)](https://www.linkedin.com/in/rodrigolimam/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:digo100200@gmail.com)](mailto:digo100200@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511976303361&text=Hello!)](https://api.whatsapp.com/send?phone=5511976303361&text=Hello!)
 
-Here are some ideas to get you started:
+- 🏡 Brazillian
+- ✌ 20 years
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### My Status
+  
+![RodrigoLimaM GitHub Stats ](https://github-readme-stats.vercel.app/api?username=RodrigoLimaM&show_icons=true) 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLimaM&layout=compact&hide=html" alt="RodrigoLimaM" /></p>
