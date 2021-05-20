@@ -13,4 +13,4 @@
 ### My Status
   
 ![RodrigoLimaM GitHub Stats ](https://github-readme-stats.vercel.app/api?username=RodrigoLimaM&show_icons=true&theme=midnight-purple) 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLimaM&layout=compact&hide=html" alt="RodrigoLimaM" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLimaM&layout=compact&hide=html&theme=midnight-purple" alt="RodrigoLimaM" /></p>
