@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511976303361&text=Hello!)](https://api.whatsapp.com/send?phone=5511976303361&text=Hello!)
 
 - 🏡 Brazillian
-- ✌ 21 years
+- ✌ 22 years
 - 💻 Passionate about software development, principally backend
 
 ----
